@@ -4,7 +4,7 @@ Udacity Robotics Nano Degree - Assigment 3
 By: Reza Rahimi
 
 
-![alt text](screenshots/rviz_amcl.png "Screenshot, Rviz on left, Gazebo on right")
+![alt text](screenshots/rviz_amcl.png "Rviz on the left, Gazebo on the right hand side.")
 
 
 ## ROS and Gazebo
