@@ -4,7 +4,6 @@ Udacity Robotics Nano Degree - Assigment 3
 By: Reza Rahimi
 
 
-Inline-style: 
 ![alt text](screenshots/rviz_amcl.png "Screenshot, Rviz on left, Gazebo on right")
 
 
